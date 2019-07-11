@@ -12,7 +12,7 @@ namespace strategy
 
         public void CreateMarket()
         {
-            _marketSource.findMarket();
+            _marketSource.FindMarket();
         }
     }
 }
